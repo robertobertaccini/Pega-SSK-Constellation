@@ -1,0 +1,909 @@
+2025-01-03 10:01:01,441 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:01:01,456 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:01:01,456 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:01:01,456 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:01:02,517 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-03 10:01:03,180 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 114.0.5735.90
+2025-01-03 10:01:03,183 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 114.0.5735.90
+2025-01-03 10:01:03,183 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-03 10:01:03,709 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-03 10:01:03,710 INFO  c.p.c.u.GetChromeDriver [getChromeDriver:166] [main] - Downloading the required chrome driver
+2025-01-03 10:01:04,089 INFO  c.p.c.u.GetChromeDriver [downloadChromeDriver:243] [main] - File downloaded successfully
+2025-01-03 10:01:04,961 INFO  c.p.c.u.GetChromeDriver [getChromeDriver:212] [main] - chromedriver is downloaded
+2025-01-03 10:01:11,665 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-03 10:01:11,904 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (73ada71a6f33954e65e83523bdb18fc9)
+2025-01-03 10:01:11,905 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-03 10:01:40,831 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:562] [main] - JS errors in Browser console
+2025-01-03 10:01:40,832 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-03 10:01:40,841 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-03 10:01:40,861 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:01:40,862 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:01:40,862 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:01:40,863 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:01:41,399 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-03 10:01:41,671 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-03 10:01:41,674 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-03 10:01:41,675 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-03 10:01:41,718 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-03 10:01:41,719 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-03 10:01:44,574 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-03 10:01:44,675 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (d97a8da89166934b81ab62c00c36d615)
+2025-01-03 10:01:44,676 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-03 10:02:04,920 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:562] [main] - JS errors in Browser console
+2025-01-03 10:02:04,921 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-03 10:02:04,928 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-03 10:15:44,483 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:15:44,510 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:15:44,511 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:15:44,511 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:15:46,210 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:15:46,210 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:15:46,211 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:15:46,211 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:18:39,138 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:18:39,158 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:18:39,159 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:18:39,159 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:18:43,824 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:18:43,825 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:18:43,825 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:18:43,826 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:20:44,014 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-03 10:20:44,041 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-03 10:20:44,042 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-03 10:20:44,043 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-03 10:20:44,627 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-03 10:20:44,944 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-03 10:20:44,948 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-03 10:20:44,948 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-03 10:20:45,843 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-03 10:20:45,844 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-03 10:20:50,401 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-03 10:20:50,675 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (39ad037a6d8aedb08bdbaf3ef911befc)
+2025-01-03 10:20:50,814 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-03 10:20:52,086 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-03 10:20:52,087 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-03 10:20:52,088 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-03 10:20:55,158 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-03 10:21:25,242 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-03 10:21:25,279 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-07 18:01:53,001 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-07 18:01:53,018 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-07 18:01:53,019 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-07 18:01:53,019 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-07 18:01:53,677 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-07 18:01:54,093 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-07 18:01:54,095 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-07 18:01:54,095 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-07 18:01:54,691 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-07 18:01:54,691 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-07 18:01:59,123 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-07 18:01:59,303 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (64cd56b3efe8a26439b60f6b2a017b58)
+2025-01-07 18:01:59,360 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-07 18:02:01,137 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-07 18:02:01,138 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-07 18:02:01,138 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-07 18:02:01,870 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-07 18:04:04,715 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-07 18:04:04,730 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-07 18:04:04,730 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-07 18:04:04,730 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-07 18:04:05,089 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-07 18:04:05,296 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-07 18:04:05,298 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-07 18:04:05,299 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-07 18:04:05,781 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-07 18:04:05,783 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-07 18:04:08,660 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-07 18:04:08,841 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (7bed00451d4fab25edc6dcd39fd60f78)
+2025-01-07 18:04:08,891 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-07 18:04:10,460 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-07 18:04:10,461 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-07 18:04:10,461 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-07 18:04:11,047 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-07 18:08:28,965 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-07 18:08:28,981 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-07 18:08:28,982 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-07 18:08:28,982 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-07 18:08:29,398 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-07 18:08:29,598 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-07 18:08:29,602 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-07 18:08:29,602 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-07 18:08:30,082 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-07 18:08:30,082 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-07 18:08:32,948 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-07 18:08:33,126 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (2ccf828eff49d0f6efdfdd58e057bfba)
+2025-01-07 18:08:33,185 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-07 18:08:34,984 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-07 18:08:34,984 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-07 18:08:34,985 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-07 18:08:35,535 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-07 18:09:37,958 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-07 18:09:37,975 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-07 18:09:37,975 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-07 18:09:37,976 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-07 18:09:38,371 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-07 18:09:38,581 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-07 18:09:38,584 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-07 18:09:38,585 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-07 18:09:39,017 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-07 18:09:39,018 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-07 18:09:41,752 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-07 18:09:41,934 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (f33a6f1d49dfcbd075f573ce075eac46)
+2025-01-07 18:09:41,991 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-07 18:09:43,739 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-07 18:09:43,740 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-07 18:09:43,740 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-07 18:09:44,261 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-07 18:11:47,823 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-07 18:11:47,838 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-07 18:11:47,839 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-07 18:11:47,839 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-07 18:11:48,239 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-07 18:11:48,446 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-07 18:11:48,447 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-07 18:11:48,448 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-07 18:11:49,036 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.204
+2025-01-07 18:11:49,037 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-07 18:11:51,858 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-07 18:11:52,040 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (b23f8034e4abc2840d1a33d2b7ad2279)
+2025-01-07 18:11:52,088 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-07 18:11:58,336 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-07 18:11:58,337 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-07 18:11:58,337 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-07 18:11:59,029 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-08 10:15:24,775 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-08 10:15:24,791 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-08 10:15:24,792 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-08 10:15:24,792 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-08 10:15:25,418 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-08 10:15:25,696 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.204
+2025-01-08 10:15:25,698 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.204
+2025-01-08 10:15:25,700 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-08 10:15:26,287 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-08 10:15:26,287 INFO  c.p.c.u.GetChromeDriver [getChromeDriver:166] [main] - Downloading the required chrome driver
+2025-01-08 10:15:26,601 INFO  c.p.c.u.GetChromeDriver [downloadChromeDriver:243] [main] - File downloaded successfully
+2025-01-08 10:15:27,391 INFO  c.p.c.u.GetChromeDriver [getChromeDriver:212] [main] - chromedriver is downloaded
+2025-01-08 10:15:34,414 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-08 10:15:34,631 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (a768007538d562f5a17596a5bccdd28b)
+2025-01-08 10:15:34,717 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-08 10:15:35,309 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-08 10:15:35,311 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-08 10:15:38,390 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-08 10:19:06,723 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-08 10:19:06,760 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-08 10:19:06,760 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-08 10:19:06,761 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-08 10:19:07,625 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-08 10:19:08,085 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-08 10:19:08,090 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-08 10:19:08,091 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-08 10:19:09,154 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-08 10:19:09,155 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-08 10:19:17,514 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-08 10:19:18,857 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (2aa03ab624cda9aa0e213acb4bea1794)
+2025-01-08 10:19:19,084 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-08 10:19:20,724 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-08 10:19:20,725 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-08 10:19:20,726 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-08 10:19:23,857 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-08 10:19:49,305 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:19:49,318 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:20:49,843 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a768007538d562f5a17596a5bccdd28b, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56080/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a768007538d562f5a17596a5bccdd28b
+2025-01-08 10:20:49,848 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a768007538d562f5a17596a5bccdd28b, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56080/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a768007538d562f5a17596a5bccdd28b
+2025-01-08 10:20:49,963 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-08 10:24:49,517 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:24:49,519 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:24:49,622 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-08 10:29:50,059 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:29:50,062 ERROR c.p.c.t.TestBase [logout:350] [main] - LOGOUT_FAILED::no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa03ab624cda9aa0e213acb4bea1794, findElements {using=xpath, value=//div[contains(@id, 'PegaWebGadget') and @style='display: block;']/iframe|//div[contains(@id,'module') and contains(@style,'block')]/div[contains(@id,'PegaWebGadget')]/iframe[contains(@id,'PegaGadget')]|//div[contains(@data-pega-gadgetname,'PegaGadget')]/iframe[contains(@id,'PegaGadget')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56729}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56729/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa03ab624cda9aa0e213acb4bea1794
+2025-01-08 10:29:50,565 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 15:53:09,811 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 15:53:09,840 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 15:53:09,841 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 15:53:09,841 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 15:53:10,435 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 15:53:10,710 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 15:53:10,714 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 15:53:10,714 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 15:53:11,294 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 15:53:11,294 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 15:53:15,654 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 15:53:15,928 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (fee4df3e39b557e4886b3fdd42fc19d0)
+2025-01-09 15:53:16,088 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 15:53:18,056 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 15:53:18,057 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 15:53:18,057 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 15:53:19,027 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 16:06:10,037 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 16:06:10,079 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 16:06:10,079 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 16:06:10,081 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 16:06:10,972 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 16:06:11,339 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 16:06:11,345 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 16:06:11,346 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 16:06:12,162 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 16:06:12,162 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 16:06:17,777 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 16:06:18,116 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (7870cf72bd07676c75cbdd3781ca0a5c)
+2025-01-09 16:06:18,260 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 16:06:19,609 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 16:06:20,130 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 16:06:20,498 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 16:06:53,872 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 16:06:55,017 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 16:06:55,068 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //span[text()='Incident']
+2025-01-09 16:06:57,647 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 16:06:57,647 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 16:06:57,648 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 16:06:57,648 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 16:06:57,650 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 16:06:59,409 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 16:10:12,218 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 16:10:12,250 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 16:10:12,252 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 16:10:12,253 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 16:10:12,963 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 16:10:13,338 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 16:10:13,342 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 16:10:13,343 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 16:10:14,113 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 16:10:14,114 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 16:10:19,548 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 16:10:20,012 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (7c49230b7a70f137a876763775c6faee)
+2025-01-09 16:10:20,209 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 16:10:21,691 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 16:10:22,266 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 16:10:22,718 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 16:10:56,512 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 16:10:57,670 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 16:11:00,719 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //span[text()='Incident']
+2025-01-09 16:11:03,187 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 16:11:03,188 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 16:11:03,189 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 16:11:03,190 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 16:11:03,190 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 16:11:04,902 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 16:38:22,819 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 16:38:22,862 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 16:38:22,863 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 16:38:22,864 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 16:38:23,937 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 16:38:24,487 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 16:38:24,491 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 16:38:24,491 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 16:38:25,609 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 16:38:25,611 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 16:38:34,372 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 16:38:34,725 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (28f8442c1a650086a4564da0fa9529fd)
+2025-01-09 16:38:34,878 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 16:38:36,168 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 16:38:36,739 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 16:38:37,083 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 16:39:07,267 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28f8442c1a650086a4564da0fa9529fd, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51808/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28f8442c1a650086a4564da0fa9529fd
+2025-01-09 16:39:07,293 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28f8442c1a650086a4564da0fa9529fd, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51808/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28f8442c1a650086a4564da0fa9529fd
+2025-01-09 16:46:54,047 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 16:46:54,068 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 16:46:54,069 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 16:46:54,069 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 16:46:54,657 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 16:46:54,940 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 16:46:54,944 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 16:46:54,945 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 16:46:55,655 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 16:46:55,655 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 16:46:59,723 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 16:47:00,002 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (2a8d447b466a1fca7fda9e13fab7d2fe)
+2025-01-09 16:47:00,141 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 16:47:01,311 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 16:47:01,594 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 16:47:01,837 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 16:47:34,903 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 16:47:36,028 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 16:47:39,063 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //span[text()='Incident']/ancestor::button
+2025-01-09 16:48:09,339 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 16:48:10,443 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 16:48:10,485 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 16:48:10,486 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 16:48:10,487 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 16:48:10,487 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 16:48:10,487 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 16:48:13,548 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 16:48:43,601 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 16:48:43,633 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 16:53:43,790 ERROR c.p.c.t.TestBase [logout:350] [main] - LOGOUT_FAILED::no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2a8d447b466a1fca7fda9e13fab7d2fe, findElement {using=xpath, value=//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59253}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59253/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a8d447b466a1fca7fda9e13fab7d2fe
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+2025-01-09 16:53:44,658 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 17:12:43,762 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:12:43,792 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:12:43,793 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:12:43,794 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:12:44,516 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:12:44,875 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:12:44,878 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:12:44,880 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:12:45,595 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:12:45,596 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:12:49,707 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:12:49,967 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (18e17c09360e755e891145c710e58047)
+2025-01-09 17:12:50,057 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:12:51,167 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 17:12:51,436 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 17:12:51,675 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 17:22:47,573 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:22:47,593 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:22:47,594 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:22:47,594 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:22:48,074 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:22:48,345 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:22:48,349 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:22:48,349 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:22:49,047 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:22:49,048 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:22:53,044 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:22:53,306 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (9631dbcf9040bda5f72ed0d82291e07e)
+2025-01-09 17:22:53,410 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:22:54,480 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 17:22:54,749 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 17:22:54,978 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 17:23:15,676 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9631dbcf9040bda5f72ed0d82291e07e, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9631dbcf9040bda5f72ed0d82291e07e
+2025-01-09 17:23:15,687 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9631dbcf9040bda5f72ed0d82291e07e, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9631dbcf9040bda5f72ed0d82291e07e
+2025-01-09 17:27:08,854 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:27:08,883 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:27:08,884 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:27:08,884 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:27:09,625 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:27:10,015 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:27:10,021 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:27:10,023 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:27:10,808 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:27:10,809 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:27:15,963 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:27:16,243 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (3b389a570a42891ad9919a63e8041df4)
+2025-01-09 17:27:16,369 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:27:17,537 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 17:27:17,867 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 17:27:18,113 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 17:27:51,269 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:27:52,393 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 17:27:52,438 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //button[contains(.,'Incident')]
+2025-01-09 17:28:16,187 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9631dbcf9040bda5f72ed0d82291e07e, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9631dbcf9040bda5f72ed0d82291e07e
+2025-01-09 17:28:16,191 ERROR c.p.s.WaitForDocStateReady [waitForDocStateReady:200] [main] - Unexpected exception, will keep trying...org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9631dbcf9040bda5f72ed0d82291e07e, findElements {using=xpath, value=//div[@class='document-statetracker']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9631dbcf9040bda5f72ed0d82291e07e
+2025-01-09 17:28:16,304 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:28:24,002 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:28:24,027 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:28:24,029 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:28:24,029 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:28:24,678 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:28:25,064 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:28:25,068 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:28:25,069 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:28:25,928 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:28:25,929 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:28:30,793 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:28:31,093 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (f18fd057e79f8f1edcbc084851f08551)
+2025-01-09 17:28:31,211 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:28:32,320 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //button[contains(.,'Incident')]
+2025-01-09 17:31:50,135 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:31:50,163 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:31:50,163 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:31:50,164 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:31:50,921 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:31:51,264 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:31:51,267 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:31:51,268 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:31:51,993 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:31:51,995 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:31:57,139 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:31:57,487 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (7929e0007927ad294b7ce1560ef0eb83)
+2025-01-09 17:31:57,630 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:31:58,852 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 17:31:59,314 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 17:31:59,648 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: sub
+2025-01-09 17:32:32,953 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:32:34,093 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 17:32:34,133 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //button[contains(.,'Incident')]
+2025-01-09 17:32:34,245 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //button[contains(.,'Incident')]
+2025-01-09 17:33:04,445 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:33:05,551 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 17:33:05,614 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:33:05,616 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 17:33:05,617 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 17:33:05,617 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:33:05,618 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:33:08,741 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 17:33:16,699 ERROR c.p.f.WaitHandlerImpl [verifyAndWaitIfThrobberPresent:440] [main] - Error while waiting for throbber in verifyAndWaitIfThrobberPresent():no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9631dbcf9040bda5f72ed0d82291e07e, findElement {using=xpath, value=//*[@class='throbber']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9631dbcf9040bda5f72ed0d82291e07e
+2025-01-09 17:33:16,737 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:33:16,737 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 17:33:16,738 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 17:33:16,738 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:33:16,738 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:33:17,662 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 17:33:38,776 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:33:38,816 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 17:38:39,107 ERROR c.p.c.t.TestBase [logout:350] [main] - LOGOUT_FAILED::no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7929e0007927ad294b7ce1560ef0eb83, findElement {using=xpath, value=//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58341}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58341/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7929e0007927ad294b7ce1560ef0eb83
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+2025-01-09 17:38:40,107 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 17:42:43,358 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:42:43,395 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:42:43,396 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:42:43,397 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:42:44,273 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:42:44,767 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:42:44,771 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:42:44,771 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:42:45,513 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:42:45,515 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:42:49,945 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:42:50,232 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (2790d21160d9e27225d02e9d1dfd4531)
+2025-01-09 17:42:50,358 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:42:51,534 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:42:51,535 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:42:51,536 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:42:54,600 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 17:43:24,721 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:43:24,765 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 17:44:22,534 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:44:22,554 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:44:22,555 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:44:22,556 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:44:23,106 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:44:23,378 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:44:23,382 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:44:23,382 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:44:23,923 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:44:23,924 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:44:27,956 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:44:28,226 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (54a4ad7cef103011c812520d1d74707d)
+2025-01-09 17:44:28,306 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:44:29,361 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:44:29,362 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:44:29,363 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:44:32,420 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 17:45:38,353 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:45:38,374 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:45:38,374 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:45:38,375 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:45:38,898 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:45:39,174 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:45:39,177 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:45:39,177 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:45:39,721 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:45:39,722 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:45:43,592 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:45:43,830 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (8cc5170b659bfd5ef74d557a29790231)
+2025-01-09 17:45:43,909 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:45:44,976 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:45:44,976 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:45:44,978 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:45:48,051 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 17:46:18,126 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:46:18,164 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 17:47:17,479 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 17:47:17,502 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 17:47:17,503 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 17:47:17,503 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 17:47:18,048 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 17:47:18,313 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 17:47:18,315 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 17:47:18,317 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 17:47:18,904 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 17:47:18,904 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 17:47:23,353 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 17:47:23,677 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (42278178c95a47677282fb2b38a89608)
+2025-01-09 17:47:23,825 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 17:47:25,525 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 17:47:25,527 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 17:47:25,528 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 17:47:28,645 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 17:47:58,816 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 17:47:58,861 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 17:52:59,378 ERROR c.p.c.t.TestBase [logout:350] [main] - LOGOUT_FAILED::no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42278178c95a47677282fb2b38a89608, findElement {using=xpath, value=//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59504}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59504/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42278178c95a47677282fb2b38a89608
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+2025-01-09 17:53:00,186 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:07:36,675 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:07:36,695 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:07:36,696 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:07:36,696 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:07:37,205 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:07:37,451 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:07:37,453 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:07:37,454 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:07:37,985 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:07:37,986 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:07:42,061 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:07:42,361 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (4c948b6044f43abe0b9ee529c67e3d08)
+2025-01-09 18:07:42,443 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:07:43,514 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:07:43,516 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:07:43,517 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:07:46,600 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 18:08:16,747 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReady:208] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:08:16,776 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]
+2025-01-09 18:13:17,204 ERROR c.p.c.t.TestBase [logout:350] [main] - LOGOUT_FAILED::no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c948b6044f43abe0b9ee529c67e3d08, findElement {using=xpath, value=//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\bertr\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60288}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60288/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c948b6044f43abe0b9ee529c67e3d08
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'L42692WEU', ip: '192.168.1.141', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+2025-01-09 18:13:17,542 WARN  o.a.n.h.WebSocketHandler [handleException:142] [AsyncHttpClient-1-4] - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-09 18:13:18,481 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:16:04,133 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:16:04,158 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:16:04,160 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:16:04,160 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:16:04,798 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:16:05,119 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:16:05,122 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:16:05,123 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:16:05,948 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:16:05,949 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:16:10,901 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:16:11,238 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (b63f5d25c57909c1cad6cc052fea56f6)
+2025-01-09 18:16:11,378 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:16:12,536 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:16:12,995 INFO  c.p.BrowserImpl [login:112] [main] - Logging in the user
+2025-01-09 18:16:12,997 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 18:16:13,190 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 18:16:13,769 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.name: pyActivity=Code-Security.Login
+2025-01-09 18:16:16,904 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:16:16,991 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:16:16,992 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:16:17,109 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:16:17,133 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:16:17,134 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:16:17,633 INFO  c.p.BrowserImpl [login:147] [main] - is the login via application specific URL? : false
+2025-01-09 18:16:17,657 INFO  c.p.BrowserImpl [login:200] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:16:17,660 INFO  c.p.BrowserImpl [login:201] [main] - isCosmos : false
+2025-01-09 18:16:17,661 INFO  c.p.BrowserImpl [login:202] [main] - isConstellation : true
+2025-01-09 18:16:17,661 INFO  c.p.BrowserImpl [login:203] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:16:18,719 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:16:18,720 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:16:18,720 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 18:16:18,720 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 18:16:18,721 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:16:18,721 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:16:19,671 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:18:07,282 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:18:07,297 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:18:07,297 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:18:07,297 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:18:07,720 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:18:07,934 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:18:07,937 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:18:07,938 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:18:08,369 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:18:08,370 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:18:11,880 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:18:12,191 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (cae6eb01ca5b202cb93912f7b241d29d)
+2025-01-09 18:18:12,288 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:18:13,357 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:18:13,779 INFO  c.p.BrowserImpl [login:112] [main] - Logging in the user
+2025-01-09 18:18:13,780 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 18:18:13,912 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 18:18:14,459 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.name: pyActivity=Code-Security.Login
+2025-01-09 18:18:17,562 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:18:17,613 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:18:17,614 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:18:17,722 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:18:17,751 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:18:17,752 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:18:18,258 INFO  c.p.BrowserImpl [login:147] [main] - is the login via application specific URL? : false
+2025-01-09 18:18:18,284 INFO  c.p.BrowserImpl [login:200] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:18:18,285 INFO  c.p.BrowserImpl [login:201] [main] - isCosmos : false
+2025-01-09 18:18:18,286 INFO  c.p.BrowserImpl [login:202] [main] - isConstellation : true
+2025-01-09 18:18:18,288 INFO  c.p.BrowserImpl [login:203] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:18:19,763 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:18:19,764 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:18:19,765 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 18:18:19,765 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 18:18:19,766 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:18:19,766 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:18:20,829 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:23:02,760 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:23:02,786 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:23:02,787 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:23:02,787 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:23:03,409 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:23:03,706 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:23:03,708 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:23:03,710 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:23:04,401 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:23:04,402 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:23:09,004 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:23:09,321 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (18c075bb300ca4a98424a32d82fe8fb6)
+2025-01-09 18:23:09,421 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:23:10,590 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:23:11,038 INFO  c.p.BrowserImpl [login:112] [main] - Logging in the user
+2025-01-09 18:23:11,039 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 18:23:11,181 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 18:23:11,752 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.name: pyActivity=Code-Security.Login
+2025-01-09 18:23:14,782 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:23:14,807 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:23:14,808 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:23:14,912 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:23:14,934 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:23:14,935 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:23:15,110 INFO  c.p.BrowserImpl [login:147] [main] - is the login via application specific URL? : false
+2025-01-09 18:23:15,138 INFO  c.p.BrowserImpl [login:200] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:23:15,139 INFO  c.p.BrowserImpl [login:201] [main] - isCosmos : false
+2025-01-09 18:23:15,140 INFO  c.p.BrowserImpl [login:202] [main] - isConstellation : true
+2025-01-09 18:23:15,141 INFO  c.p.BrowserImpl [login:203] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:23:17,023 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:23:17,024 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:23:17,025 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 18:23:17,025 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 18:23:17,025 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:23:17,026 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:23:18,069 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:24:35,365 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:24:35,382 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:24:35,382 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:24:35,383 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:24:35,883 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:24:36,148 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:24:36,151 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:24:36,152 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:24:36,706 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:24:36,707 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:24:40,734 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:24:41,054 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (91d84ada72257808c3e1df82e019827b)
+2025-01-09 18:24:41,141 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:24:42,214 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:24:42,648 INFO  c.p.BrowserImpl [login:112] [main] - Logging in the user
+2025-01-09 18:24:42,651 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 18:24:42,791 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 18:24:43,365 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.name: pyActivity=Code-Security.Login
+2025-01-09 18:24:46,247 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:24:46,316 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:24:46,317 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:24:46,417 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:24:46,435 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:24:46,437 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:24:46,588 INFO  c.p.BrowserImpl [login:147] [main] - is the login via application specific URL? : false
+2025-01-09 18:24:46,649 INFO  c.p.BrowserImpl [login:200] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:24:46,651 INFO  c.p.BrowserImpl [login:201] [main] - isCosmos : false
+2025-01-09 18:24:46,652 INFO  c.p.BrowserImpl [login:202] [main] - isConstellation : true
+2025-01-09 18:24:46,654 INFO  c.p.BrowserImpl [login:203] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:24:48,271 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:24:48,273 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:24:48,273 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 18:24:48,273 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 18:24:48,274 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:24:48,274 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:24:49,215 INFO  c.p.c.t.TestBase [terminateSession:230] [main] - Browser terminated...
+2025-01-09 18:25:38,691 INFO  c.p.c.SUTConfig [<init>:87] [main] - Setting is.pipeline.run property to false
+2025-01-09 18:25:38,707 INFO  c.p.c.SUTConfig [<init>:108] [main] - Debug mode is: false
+2025-01-09 18:25:38,707 INFO  c.p.c.SUTConfig [<init>:118] [main] - Attach PRPC logs?false
+2025-01-09 18:25:38,708 INFO  c.p.TestEnvironmentImpl [setLoggerLevel:198] [main] - Logger level is set to : INFO
+2025-01-09 18:25:39,181 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:70] [main] - yes chrome.exe exists
+2025-01-09 18:25:39,452 INFO  c.p.c.u.GetChromeDriver [getCurrentVersionOfDriverAsString:161] [main] - current driver version is 131.0.6778.264
+2025-01-09 18:25:39,455 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:76] [main] - current version of chrome 131.0.6778.264
+2025-01-09 18:25:39,456 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:77] [main] - local Chrome version is 131
+2025-01-09 18:25:40,102 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:115] [main] - Chrome Version: 131	ChromeDriver version needed:131.0.6778.264
+2025-01-09 18:25:40,103 INFO  c.p.c.u.GetChromeDriver [getChromeDriverForChrome:117] [main] - Required chromedriver version is already available. Not attempting to download any new version
+2025-01-09 18:25:44,528 INFO  c.p.d.PegaChromeDriver [initializeDriver:165] [main] - Chrome Driver launched successfully
+2025-01-09 18:25:44,912 INFO  c.p.TestEnvironmentImpl [initializeEnvironment:130] [main] - Driver is initialised::ChromeDriver: chrome on WINDOWS (14d2d6b559dd33a64fd3cad247698d9b)
+2025-01-09 18:25:45,053 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:25:46,346 INFO  c.p.BrowserImpl [open:283] [main] - Opening the URL
+2025-01-09 18:25:46,872 INFO  c.p.BrowserImpl [login:112] [main] - Logging in the user
+2025-01-09 18:25:46,877 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtUserID
+2025-01-09 18:25:47,063 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.id: txtPassword
+2025-01-09 18:25:47,742 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.name: pyActivity=Code-Security.Login
+2025-01-09 18:25:51,064 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:25:51,188 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:25:51,189 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:25:51,311 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:235] [main] - New DocStateReady method invoked for login
+2025-01-09 18:25:51,351 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:266] [main] - It is constellation application, skipping document-stateTracker check
+2025-01-09 18:25:51,352 INFO  c.p.s.WaitForDocStateReady [waitForDocStateReadyLogin:321] [main] - !!! Document state div was never identified...are you sure your system is doc state aware?
+2025-01-09 18:25:51,878 INFO  c.p.BrowserImpl [login:147] [main] - is the login via application specific URL? : false
+2025-01-09 18:25:51,908 INFO  c.p.BrowserImpl [login:200] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:25:51,910 INFO  c.p.BrowserImpl [login:201] [main] - isCosmos : false
+2025-01-09 18:25:51,910 INFO  c.p.BrowserImpl [login:202] [main] - isConstellation : true
+2025-01-09 18:25:51,911 INFO  c.p.BrowserImpl [login:203] [main] - +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+
+2025-01-09 18:25:51,919 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //button[contains(.,'Incident')]
+2025-01-09 18:25:53,346 INFO  c.p.s.Throbber [waitForNoThrobber:69] [main] - Throbbing never started
+2025-01-09 18:25:53,414 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:25:53,415 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - FINE https://lab-03254-bos.lab-internal.pega.com/prweb/app/default/beEBp4uRVTogorRwSwWqbOtn9IL2fwdI*/!STANDARD - [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o
+2025-01-09 18:25:53,415 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:127636 "asset-loader.initServer(https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, https://staging.constellation.pega.io/c11n-appstatic/)"
+2025-01-09 18:25:53,416 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:548] [main] - INFO https://release.constellation.pega.io/cs/8.24.50-31/react/prod/prerequisite/constellation-core-web.js?v=7059820241024053223 1:128176 "asset-loader.initServer() staticServerURL=https://release.constellation.pega.io/cs/8.24.50-31/react/prod/, appStaticUrl=https://staging.constellation.pega.io/c11n-appstatic/, pegaOnlyUrl=true)"
+2025-01-09 18:25:53,417 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:553] [main] - *****printing only Browser console errors*****
+
+2025-01-09 18:25:53,417 INFO  c.p.BrowserImpl [getConsoleLogFromChromeBrowser:564] [main] - ****END OF BROWSER CONSOLE LOGS*****
+2025-01-09 18:25:56,471 INFO  c.p.BrowserImpl [switchToWindow:378] [main] - Switching successful to window no: 1
+2025-01-09 18:25:56,484 INFO  c.p.f.PegaWebDriverImpl [findElement:79] [main] - element identification by logic:By.xpath: //img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]

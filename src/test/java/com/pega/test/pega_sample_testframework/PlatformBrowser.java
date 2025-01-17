@@ -8,6 +8,7 @@ import com.pega.Configuration;
 import com.pega.page.Portal;
 import com.pega.prpc.portal.CaseManagerPortal;
 import com.pega.prpc.portal.DesignerStudioPortal;
+import com.pega.prpc.portal.SelfServicePortal;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
@@ -40,6 +41,10 @@ public class PlatformBrowser extends BrowserImpl {
 		{
 			portal = type.cast(new CaseManagerPortal(myAppTestEnv));
 		}
+		if(className.contains("SelfService"))
+		{
+			portal = type.cast(new SelfServicePortal(myAppTestEnv));
+		}		
 		return portal;
 	}
 
@@ -73,4 +78,11 @@ public class PlatformBrowser extends BrowserImpl {
 		open();
 		super.login(configuration.getCredential("TESTAPP_ADMIN_ID"), configuration.getCredential("TESTAPP_ADMIN_PASSWORD"));
 	}
+	
+	@Given("^A User logs in as customer$")
+	public void a_User_logs_in_with_Customer_credentials() {
+		open();
+		super.login(configuration.getCredential("TESTAPP_CUSTOMER_USER_ID"), configuration.getCredential("TESTAPP_CUSTOMER_PASSWORD"));
+	}
+
 }

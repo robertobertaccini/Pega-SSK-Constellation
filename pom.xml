@@ -13,7 +13,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<tags>@smoke</tags>
+		<tags>@sample</tags>
 		<baseClass>com.pega.test.pega_sample_testframework.PlatformTestEnvironment</baseClass>
 		<threadCount>2</threadCount>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -23,6 +23,7 @@
         <!--suppress UnresolvedMavenProperty -->
         <buildName>${BUILD_DISPLAY_NAME}- ${team.name}</buildName>
         <archived.reportsDir>${basedir}/archivedreports/${buildName}</archived.reportsDir>
+        <pegalib>C:\GIT\pega-sample-tests/lib/pega-base-ui-testframework-4.3.1.jar</pegalib>
 	</properties>
 
 	
@@ -191,7 +192,7 @@
             <artifactId>pega-base-ui-testframework</artifactId>
             <version>4.2.7</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/pega-base-ui-testframework-4.3.1.jar</systemPath>
+            <systemPath>C:\GIT\pega-sample-tests/lib/pega-base-ui-testframework-4.3.1.jar</systemPath>
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework</groupId>
