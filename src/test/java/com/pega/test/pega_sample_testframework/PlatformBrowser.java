@@ -51,7 +51,8 @@ public class PlatformBrowser extends BrowserImpl {
 	public void logout() {
 		pegaDriver.waitForDocStateReady(2);
 		pegaDriver.switchTo().defaultContent();
-		pegaDriver.findElement(OPERATOR_MENU).click();
+		// pegaDriver.findElement(OPERATOR_MENU).click();
+		
 		pegaDriver.switchTo().defaultContent();
 		pegaDriver.findElement(LOG_OFF_BUTTON).click();
 	}

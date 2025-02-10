@@ -20,37 +20,12 @@ public class SelfServicePortal extends PortalImpl{
 		super(testEnv);
 	}
 		
-		public Incident createIncident() {
-
-			System.out.println("looking for incident");
-			
-			By QUICK_LINK = By.xpath("//button[contains(.,'Incident')]");
-			findElement(QUICK_LINK).click();
-			return new Incident(getActiveFrameId(true), testEnv);
-			
-			
-			//new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(By.xpath("//button[contains(.,'Incident')]")));
-		 	
-			//pegaDriver.findElement(By.xpath("//button[contains(.,'Incident')]")).click(); 
-			
-			//	pegaDriver.findElement(incident).click(); 	 	 
-			}
-		
-	
 	public Incident createCase(String caseName) {
 
-		System.out.println("looking for incident");
-		
 		By QUICK_LINK = By.xpath("//button[contains(.,'"+caseName+"')]");
 		findElement(QUICK_LINK).click();
 		return new Incident(getActiveFrameId(true), testEnv);
-		
-		
-		//new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(By.xpath("//button[contains(.,'Incident')]")));
-	 	
-		//pegaDriver.findElement(By.xpath("//button[contains(.,'Incident')]")).click(); 
-		
-		//	pegaDriver.findElement(incident).click(); 	 	 
-		}
+
+	}
 	}
 	

@@ -66,7 +66,7 @@ public class SelfServiceStepDefs {
 	@When("I create a new incident")
 	public Incident i_create_a_new_incident() {
 		
-		return ssPortal.createIncident();
+		return ssPortal.createCase("Incident");
 	}
 
 
