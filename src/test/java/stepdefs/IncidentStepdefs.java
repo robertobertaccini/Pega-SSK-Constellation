@@ -44,8 +44,8 @@ public class IncidentStepdefs {
 	private EditCaseType editCaseType;
 	private PlatformObjectsBean objBean;
 	
-	public static final By INCIDENT_TYPE =  byTestID("IncidentType:select:control");
-	public static final By INCIDENT_SUBTYPE = byTestID("IncidentSubType:select:control");
+	public static final By INCIDENT_TYPE =  byTestID("Incident Type:select:control");
+	public static final By INCIDENT_SUBTYPE = byTestID("Incident Subtype:select:control");
 	public static final By NEXT =  By.xpath("//button[@name='next']");
 	public static final By SEARCH_BY = byTestID("Search by::select:control");
 	public static final By COST = byTestID("Cost:currency-input:control");
@@ -53,11 +53,12 @@ public class IncidentStepdefs {
 	public static final By RESOLUTION_METHOD = byTestID("What would you like Sweet Life Inc  to do to resolve your issue?:select:control");
 	public static final By SUBMIT =  By.xpath("//button[@name='submit']");
 	
-	public static final By UserConsent =  By.xpath("//*[@data-testid='UserConsent']/following-sibling::label/div");
-	public static final By PrivacyPolicy =  By.xpath("//*[@data-testid='PrivacyPolicy']/following-sibling::label/div");
+	public static final By UserConsent =  By.xpath("//label[@data-testid=':checkbox:label' and contains(text(),'I agree to Terms and Conditions')]");
+	public static final By PrivacyPolicy =  By.xpath("//label[@data-testid=':checkbox:label' and contains(text(),'I agree with Privacy Policy')]");
+	public static final By Manually = By.xpath("//label[text()='Manually']");
 	
+	public static final By CATEGORY_SEARCH =  byTestID("Category:input:control");
 	public static final By PROD_SEARCH =  byTestID("search");
-	public static final By CATEGORY_SEARCH =  byTestID("FilterCategory:input:control");
 	
 	
 	private static By byTestID(String TestID) {
@@ -100,11 +101,18 @@ public class IncidentStepdefs {
 	public void i_search_by_having_category_like_and_cost(String string, String string2, Integer int1) {
 		
 		new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(NEXT));
-		pegaDriver.findSelectBox(SEARCH_BY).selectByValue(string);
-		pegaDriver.findElement(CATEGORY_SEARCH).sendKeys(string2);
-		pegaDriver.findElement(COST).sendKeys(int1.toString());
 		
-		pegaDriver.findElement(PROD_SEARCH).click();
+		pegaDriver.findSelectBox(SEARCH_BY).selectByValue(string);
+		
+		//new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(CATEGORY_SEARCH));
+		//pegaDriver.findElement(CATEGORY_SEARCH).sendKeys(string2);
+		
+		//pegaDriver.getByTestId("What happened?:text-area:control").fill("Who knows");
+		//pegaDriver.getByTestId("Where did this happened?:text-area:control").fill("In my house");
+
+		//pegaDriver.findElement(PROD_SEARCH).click();
+		pegaDriver.findElement(COST).sendKeys(int1.toString());
+		//pegaDriver.findElement(NEXT).click();
 
 	}
 	
@@ -112,10 +120,10 @@ public class IncidentStepdefs {
 	public void i_select_the_product(String string) {
 		
 		
-		By SEL_PROD =  By.xpath("//input[@aria-label='"+string+"']/following-sibling::label/div");
-		new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(SEL_PROD));
+		//By SEL_PROD =  By.xpath("//input[@aria-label='"+string+"']/following-sibling::label/div");
+		//new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(SEL_PROD));
 		
-		pegaDriver.findElement(SEL_PROD,false).click();
+		//pegaDriver.findElement(SEL_PROD,false).click();
 		pegaDriver.findElement(NEXT).click();
 	}
 	
@@ -123,8 +131,9 @@ public class IncidentStepdefs {
 	public void i_provide_contact_info_with_manual_address() {
 		
 		new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(NEXT));
-		pegaDriver.findElement(FILL_FORM_WITH_AI).click();
-		GoSleep(5000);
+		//pegaDriver.findElement(FILL_FORM_WITH_AI).click();
+		//GoSleep(5000);
+		pegaDriver.findElement(Manually).click();;		
 	   	pegaDriver.findElement(NEXT).click();
 		
 	}

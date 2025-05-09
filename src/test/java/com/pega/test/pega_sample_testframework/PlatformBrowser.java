@@ -22,6 +22,7 @@ public class PlatformBrowser extends BrowserImpl {
 
 	private static final By OPERATOR_MENU = By.xpath(
 			"//img[@alt='Show User Profile']|//i[@data-test-id='px-opr-image-ctrl']|//i[contains(@class, 'icons avatar name')]");
+	private static final By OPERATOR_AVATAR = By.xpath("//div[@data-testid=':avatar:']");
 	private static final By LOG_OFF_BUTTON = By.xpath("//*[text()='Log off']");
 
 	@Inject
@@ -51,7 +52,7 @@ public class PlatformBrowser extends BrowserImpl {
 	public void logout() {
 		pegaDriver.waitForDocStateReady(2);
 		pegaDriver.switchTo().defaultContent();
-		// pegaDriver.findElement(OPERATOR_MENU).click();
+		pegaDriver.findElement(OPERATOR_AVATAR).click();
 		
 		pegaDriver.switchTo().defaultContent();
 		pegaDriver.findElement(LOG_OFF_BUTTON).click();

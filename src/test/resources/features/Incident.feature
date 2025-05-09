@@ -1,6 +1,6 @@
 Feature: Incident
 
-	@sample
+	@incident
   Scenario Outline: Incident
     Given A User logs in as customer
     When I create a new incident
