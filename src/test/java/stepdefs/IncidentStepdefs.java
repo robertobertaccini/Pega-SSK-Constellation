@@ -111,6 +111,7 @@ public class IncidentStepdefs {
 		//pegaDriver.getByTestId("Where did this happened?:text-area:control").fill("In my house");
 
 		//pegaDriver.findElement(PROD_SEARCH).click();
+		new WebDriverWait(pegaDriver,Duration.ofSeconds(10)).until(ExpectedConditions.elementToBeClickable(COST));
 		pegaDriver.findElement(COST).sendKeys(int1.toString());
 		//pegaDriver.findElement(NEXT).click();
 

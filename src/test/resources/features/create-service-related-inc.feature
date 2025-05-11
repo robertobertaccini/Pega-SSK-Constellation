@@ -4,7 +4,7 @@ Feature: Customer Incident Submission (Service related)
   I want to submit an incident case related to service
   So that I can get resolution for service problems
 
-  @incident
+  @incidentx
   Scenario Outline: Submit service-related incident
     Given I am logged into the customer portal
     And I am on the home page

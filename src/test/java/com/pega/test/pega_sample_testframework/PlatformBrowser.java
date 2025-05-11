@@ -49,6 +49,7 @@ public class PlatformBrowser extends BrowserImpl {
 		return portal;
 	}
 
+	/*
 	public void logout() {
 		pegaDriver.waitForDocStateReady(2);
 		pegaDriver.switchTo().defaultContent();
@@ -57,6 +58,7 @@ public class PlatformBrowser extends BrowserImpl {
 		pegaDriver.switchTo().defaultContent();
 		pegaDriver.findElement(LOG_OFF_BUTTON).click();
 	}
+	*/
 
 	@Given("^A User logs in with \"(.*?)\" and \"(.*?)\"$")
 	public void login(String username, String password) {
